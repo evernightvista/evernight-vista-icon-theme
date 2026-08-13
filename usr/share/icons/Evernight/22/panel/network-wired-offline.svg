@@ -1,11 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#4285f4; }</style>
  </defs>
- <g transform="translate(-57 -551.36)">
-  <path opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m62 556.36s-1 0-1 1v9c0 1 1 1 1 1h2l1 1h5v-2h-4l-1-1h-2v-7h10v6h2v-7c0-1-1-1-1-1h-12z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m71 565.36v1c0 0.27614 0.10029 0.53779 0.28125 0.71875l0.78125 0.78125-0.78125 0.78125c-0.18096 0.18096-0.28125 0.44261-0.28125 0.71875v1h1c0.27614 0 0.53779-0.10029 0.71875-0.28125l0.78125-0.78125 0.78125 0.78125c0.18096 0.18096 0.44261 0.28125 0.71875 0.28125h1v-1c0-0.27614-0.10029-0.53779-0.28125-0.71875l-0.78125-0.78125 0.78125-0.78125c0.18096-0.18096 0.28125-0.44261 0.28125-0.71875v-1h-1c-0.27614 0-0.53779 0.10029-0.71875 0.28125l-0.78125 0.78125-0.78125-0.78125c-0.18096-0.18096-0.44261-0.28125-0.71875-0.28125h-1z"/>
- </g>
+ <path class="ColorScheme-Text" d="m15 3c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h1v3.8789l1 1v-4.8789h1c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1h-3zm-8.8789 1 1 1h5.3789c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-3-3.3789zm8.8789 0h3v1h-3v-1zm-10.273 0.019531c-0.97747 0.13276-1.7266 0.96543-1.7266 1.9805v8c0 1.108 0.892 2 2 2h3v2h-1.5c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h8c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-0.5v-2h0.5c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-9.5c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1h0.70703l-0.98047-0.98047zm10.273 1.9805h3v3h-3v-3zm1 9.293v3.1523c0 0.30778 0.223 0.55469 0.5 0.55469s0.5-0.24691 0.5-0.55469v-2.1523l-1-1zm-7 0.70703h4v2h-4v-2z" fill="currentColor"/>
+ <rect class="ColorScheme-Text" transform="rotate(45)" x="4.5563" y="-.5" width="22" height="1" rx=".5" ry=".5" fill="currentColor"/>
 </svg>

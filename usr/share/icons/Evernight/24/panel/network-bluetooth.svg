@@ -1,8 +1,12 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#dfdfdf;
-      }</style>
- </defs>
- <path class="ColorScheme-Text" d="m13 17.763v-3.672l2.278 1.836zm0-11.525 2.278 1.836-2.278 1.836v-3.673zm0.593 5.763 3.906-3.148a1.002 1.002 0 0 0 0-1.558l-4.872-3.926a1 1 0 0 0-1.627 0.778v5.762l-3.244-2.614a1.0003 1.0003 0 0 0-1.255 1.558l3.905 3.147-3.905 3.147a1 1 0 0 0 1.255 1.557l3.244-2.614v5.762a1.001 1.001 0 0 0 1 1 0.998 0.998 0 0 0 0.627-0.221l4.872-3.926a1.002 1.002 0 0 0 0-1.557l-3.906-3.148z" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24">
+  <defs id="defs4157">
+    <style id="current-color-scheme" type="text/css">
+      .ColorScheme-Text {
+        color:#dedede;
+      }
+    </style>
+  </defs>
+  <g transform="translate(1,1)">
+    <path class="ColorScheme-Text" style="text-decoration:none;text-decoration-line:none;text-decoration-style:solid;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" d="m 10.998047,3 v 0.00195 7.039063 l -3.292969,-3.2929692 -0.002,0.00195 C 7.347329,6.39404 6.707031,5.7539062 6.707031,5.7539062 L 6,6.4609375 10.544922,11.001953 6,15.542969 6.707031,16.25 c 0,0 0.640351,-0.640094 0.996094,-0.996094 h 0.002 L 11,11.960938 V 19 h 1 L 16,15 12,11 16,7 12,3 Z M 12,4.4160156 14.585938,7.0019531 12,9.5878906 Z m 0,8.0000004 2.585938,2.585937 L 12,17.587891 Z" id="rect4163-9"/>
+  </g>
 </svg>

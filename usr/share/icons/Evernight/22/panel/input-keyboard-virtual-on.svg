@@ -1,10 +1,16 @@
 <svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }</style>
- </defs>
- <g class="ColorScheme-Text" transform="translate(0,-20)" fill="currentColor">
-  <path transform="translate(-25,20)" d="m29 4c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h12.768a3 3 0 0 1-0.76758-2h-12c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1h14c0.554 0 1 0.446 1 1v6a3 3 0 0 1 2 0.76367v-6.7637c0-1.662-1.338-3-3-3z"/>
-  <path d="m5 27a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm-12 3a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm-12 3a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0c-0.554 0-1 0.446-1 1s0.446 1 1 1h6c0.554 0 1-0.446 1-1s-0.446-1-1-1h-6z" opacity=".45"/>
- </g>
- <path d="m19 14a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" fill="#42d15b" stroke-width=".8"/>
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dedede;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#dedede;
+      }</style>
+ <path d="m19.5 13a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5z" fill="#11d116"/>
+ <path class="ColorScheme-Text" d="m3 4c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h14.062a3.5 3.5 0 0 1-0.7207-1h-13.342c-1.108 0-2-0.892-2-2v-8c0-1.108 0.892-2 2-2h16c1.108 0 2 0.892 2 2v5.3379a3.5 3.5 0 0 1 1 0.71484v-6.0527c0-1.662-1.338-3-3-3h-16zm0 3v2h3v-2h-3zm4 0v2h2v-2h-2zm3 0v2h2v-2h-2zm3 0v2h2v-2h-2zm3 0v2h3v-2h-3zm-13 3v2h4v-2h-4zm5 0v2h2v-2h-2zm3 0v2h2v-2h-2zm3 0v2h5v-2h-5zm-11 3v2h2v-2h-2zm3 0v2h10v-2h-10zm11 0v0.0625a3.5 3.5 0 0 1 0.0625-0.0625h-0.0625z" fill="currentColor"/>
 </svg>

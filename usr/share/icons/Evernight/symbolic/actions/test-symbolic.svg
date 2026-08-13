@@ -1,7 +1,7 @@
-<svg height="16px" viewBox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#565656">
-        <path d="m 8 0 c -4.40625 0 -8 3.59375 -8 8 s 3.59375 8 8 8 s 8 -3.59375 8 -8 s -3.59375 -8 -8 -8 z m 0 1.941406 c 3.359375 0 6.058594 2.699219 6.058594 6.058594 s -2.699219 6.058594 -6.058594 6.058594 s -6.058594 -2.699219 -6.058594 -6.058594 s 2.699219 -6.058594 6.058594 -6.058594 z m 0 0"/>
-        <path d="m 13 8 c 0 2.761719 -2.238281 5 -5 5 v -5 z m 0 0"/>
-        <path d="m 3 8 c 0 -2.761719 2.238281 -5 5 -5 v 5 z m 0 0"/>
-    </g>
+<svg width="16px" height="16px" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#363636" stroke-width="1.2">
+  <path d="m14 8c0 3.3141-2.6859 6-6 6v-6z" opacity=".45"/>
+  <path d="m2 8c0-3.3141 2.6859-6 6-6v6z" opacity=".45"/>
+ </g>
+ <path d="m8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" fill="#363636" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
 </svg>
