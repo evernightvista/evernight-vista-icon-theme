@@ -32,6 +32,11 @@
      inkscape:current-layer="svg3" />
   <defs
      id="defs1">
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Highlight {
+    color:#3daee9;
+   }
+  </style>
     <filter
        id="a"
        x="-0.08088189"
@@ -58,7 +63,7 @@
   <path
      transform="scale(.26458)"
      d="M12 6c-1.108 0-2 .892-2 2v2h44V8c0-1.108-.892-2-2-2H12z"
-     fill="#6694ff"
+     fill="currentColor" class="ColorScheme-Highlight"
      style="paint-order:stroke markers fill"
      id="path1" />
   <image
@@ -72,14 +77,14 @@
      id="image1" />
   <path
      d="M 5.292,4.233 A 3.175,3.175 0 0 0 8.467,7.408 3.175,3.175 0 0 0 11.642,4.233 H 10.848 A 2.381,2.381 0 0 1 8.467,6.614 2.381,2.381 0 0 1 6.085,4.234 Z"
-     fill="#1754d3"
+     fill="currentColor" class="ColorScheme-Highlight"
      filter="url(#a)"
      opacity="0.35"
      style="display:none;paint-order:stroke markers fill"
      id="path2" />
   <path
      d="M 5.292,3.969 A 3.175,3.175 0 0 0 8.467,7.144 3.175,3.175 0 0 0 11.642,3.969 H 10.848 A 2.381,2.381 0 0 1 8.467,6.349 2.381,2.381 0 0 1 6.085,3.969 Z"
-     fill="#5284ff"
+     fill="currentColor" class="ColorScheme-Highlight"
      style="display:none;paint-order:stroke markers fill"
      id="path3" />
   <g

@@ -1,5 +1,10 @@
 <svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Highlight {
+    color:#3daee9;
+   }
+  </style>
   <linearGradient id="linearGradient873" x1="10.583" x2="225.69" y1="-184.68" y2="-184.68" gradientUnits="userSpaceOnUse">
    <stop stop-color="#fafbfb" offset="0"/>
    <stop stop-color="#fafbfb" stop-opacity="0" offset="1"/>
@@ -16,7 +21,7 @@
   <linearGradient id="linearGradient9" x1="3.717" x2="14.542" y1="2.9659" y2="13.369" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient22"/>
  </defs>
  <g transform="scale(3.7796)">
-  <rect x=".529" y="2.381" width="15.875" height="12.171" rx=".52931" ry=".52931" fill="#198ee6"/>
+  <rect x=".529" y="2.381" width="15.875" height="12.171" rx=".52931" ry=".52931" fill="currentColor" class="ColorScheme-Highlight"/>
   <rect x=".529" y="2.381" width="15.875" height="12.171" rx=".52931" ry=".52931" fill="url(#linearGradient9)" opacity=".15" style="mix-blend-mode:overlay;paint-order:stroke markers fill"/>
   <path transform="scale(.26458)" d="m4 9c-1.1083 0-2 0.89168-2 2v2h60v-2c0-1.1083-0.89168-2-2-2z" fill="#000000" opacity=".15" style="paint-order:stroke markers fill"/>
   <g transform="matrix(.031249 0 0 .031249 4.7872 18.52)">
@@ -28,7 +33,7 @@
    <path d="m10.583-127 32.808-115.36 182.3 115.36z" fill="url(#linearGradient873)"/>
    <path transform="scale(.26458)" d="m480-716.04v236.04h40v-210.72z" fill="url(#linearGradient893)" opacity=".35"/>
   </g>
-  <rect x="1.3229" y="4.2333" width="14.287" height="9.5248" rx=".52916" ry=".52916" fill="#198ee6"/>
+  <rect x="1.3229" y="4.2333" width="14.287" height="9.5248" rx=".52916" ry=".52916" fill="currentColor" class="ColorScheme-Highlight"/>
   <rect x="1.5875" y="2.64" width="1.0583" height=".52918" ry=".26459" fill="#000000" opacity=".35" style="paint-order:stroke markers fill"/>
   <rect x="7.1437" y="2.64" width="2.6458" height=".52918" ry=".26459" fill="#000000" opacity=".35" style="paint-order:stroke markers fill"/>
   <rect x="15.081" y="2.64" width=".52917" height=".52918" ry=".26459" fill="#000000" opacity=".35" style="paint-order:stroke markers fill"/>
